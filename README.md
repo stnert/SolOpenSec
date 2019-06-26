@@ -9,7 +9,7 @@ Foi proposto que na fase Beta 1 a startup utilizaria como servidor padrão o Pro
 
 https://cockpit-project.org/
 
-Cockpit Project — Cockpit Project
+Cockpit Project 
 Cockpit makes it easy to administer your GNU/Linux servers via a web browser. 
 
 Version 0.1.2 - 07/03 ( ) - Beta 1 Brainstorm - Codinome:  Klaus Quirini  (✓) 
