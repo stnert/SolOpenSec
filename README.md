@@ -1,8 +1,7 @@
 # SolOpenSec
 API Enterprise Remote Solutions of Cybersecurity 
 
-É uma empresa com fins propostos para suporte remoto de empresas e usuários domésticos voltado a Segurança da Informação. 
-Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux.  
+A SolOpenSec é uma startup com base proposta para suporte remoto de empresas e usuários domésticos voltado a Segurança da Informação.Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux. Adicionaremos critérios rigorosos para fins de proteção do sistema operacional dos clientes.
 
 Version 0.2 - 01/03 ( ) - Beta 1 Brainstorm Beta 1 
 
@@ -15,12 +14,14 @@ Cockpit Project — Cockpit Project
 Cockpit makes it easy to administer your GNU/Linux servers via a web browser. 
 
 Version 0.1.2 - 07/03 ( ) - Beta 1 Brainstorm - Codinome:  Klaus Quirini  (✓) 
+ 
  *Release fixes*   
  - Apenas Brainstorm 
 
 
 Version 0.1.2.3  - 24/03  - Beta 2 Brainstorm 
 Codinome: Edward Joseph Snowden (✓) 
+ 
  *Release fixes*   
  - Apenas Brainstorm
  
@@ -28,6 +29,7 @@ Codinome: Edward Joseph Snowden (✓)
 
 Version 0.1.2.4 - 03/04  - Beta 3 Brainstorm 
 Codinome: * Julian Paul Hawkins  (Conhecido como Julian Assange) (✓)
+
 *Release fixes*   
  - Apenas Brainstorm
 
