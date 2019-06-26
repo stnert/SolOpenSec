@@ -2,7 +2,7 @@
 API Enterprise Remote Solutions of Cybersecurity 
 
 É uma empresa com fins propostos para suporte remoto de empresas e usuários domésticos voltado a Segurança da Informação. 
-Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux 
+Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux.  
 
 Version 0.2 - 01/03 ( ) - Beta 1 Brainstorm Beta 1 
 
