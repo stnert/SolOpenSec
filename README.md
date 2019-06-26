@@ -6,7 +6,7 @@ Também é proposto que a empresa preste suporte e configuração de Sistemas Op
 
 Version 0.2 - 01/03 ( ) - Beta 1 Brainstorm Beta 1 
 
-FOi proposto que na fase Beta 1 a startup utilizaria como servidor padrão o Projeto Cockpit. 
+Foi proposto que na fase Beta 1 a startup utilizaria como servidor padrão o Projeto Cockpit. 
 
 
 https://cockpit-project.org/
