@@ -62,6 +62,13 @@ Codinome:  Richard Matthew Stallman (✓)
  - Adicionado Projeto no Github 
  - Divulgação do projeto para pessoas do Marketing
  
+ Version 0.1.2.8 - 22/12 - Beta 7  
+ Definitions 
+ Codinome: Sundar Pichai (✓) 
+ 
+  - Adicionado um novo colaborador 
+  - Atualização de Nome da API 
+  
 
 
 
