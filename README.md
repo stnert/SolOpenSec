@@ -75,7 +75,9 @@ Definitions
 Codinome: Kris Hagerman (✓) 
 
 - Server Gentoo installed 
+
 //Social Engineering on here :D 
+
 
 - Channel in Telegram of Yuri Gagarin shared in server instancy federed 
  <code>updated</code>
