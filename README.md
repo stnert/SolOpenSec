@@ -63,7 +63,8 @@ Codinome:  Richard Matthew Stallman (✓)
  - Divulgação do projeto para pessoas do Marketing
  
  Version 0.1.2.8 - 22/12 - Beta 7  
- Definitions 
+ Brainstorm
+  
  Codinome: Sundar Pichai (✓) 
  
   - Adicionado um novo colaborador 
@@ -71,7 +72,8 @@ Codinome:  Richard Matthew Stallman (✓)
   
 
 Version 0.2.0.2.0 - 03/01 - Beta 8 
-Definitions 
+Brainstorm
+ 
 Codinome: Kris Hagerman (✓) 
 
 - Server Gentoo installed 
