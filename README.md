@@ -72,8 +72,7 @@ Codinome:  Richard Matthew Stallman (✓)
   
 
 Version 0.2.0.2.0 - 03/01 - Beta 8 
-Brainstorm
- 
+
 Codinome: Kris Hagerman (✓) 
 
 - Server Gentoo installed 
