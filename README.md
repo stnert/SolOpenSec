@@ -80,6 +80,6 @@ Codinome: Kris Hagerman (✓)
 
 
 - Channel in Telegram of Yuri Gagarin shared in server instancy federed 
-<code>updated</code><span>2020 is the year!</span>
+<code>updated</code>
 
 
