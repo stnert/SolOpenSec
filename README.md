@@ -70,5 +70,15 @@ Codinome:  Richard Matthew Stallman (✓)
   - Atualização de Nome da API 
   
 
+Version 0.2.0.2.0 - 03/01 - Beta 8 
+Definitions 
+Codinome: Kris Hagerman (✓) 
+
+- Server Gentoo installed 
+//Social Engineering on here :D 
+
+- Channel in Telegram of Yuri Gagarin shared in server instancy federed 
+ <code>updated</code>
+
 
 
