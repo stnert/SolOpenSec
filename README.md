@@ -1,4 +1,4 @@
-# SolOpenSec - API Remote Solutions of Cybersecurity 
+# SolOpenSec Project - API Remote Solutions of Cybersecurity 
 
 Projeto voltado para suporte no setor de Cybersegurança, para usuários domésticos e empresariais. 
 
