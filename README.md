@@ -67,7 +67,7 @@ Codinome:  Richard Matthew Stallman (✓)
  Version 0.1.2.8 - 22/12 - Beta 7  
  Brainstorm
   
- Codinome: Sundar Pichai (✓) 
+ Codinome: James Bullough Lansing (✓) 
  
   - Adicionado um novo colaborador 
   - Atualização de Nome da API 
