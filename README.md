@@ -1,6 +1,6 @@
 # SolOpenSec - API Remote Solutions of Cybersecurity 
 
-A SolOpenSec é uma startup com base proposta para suporte remoto de empresas e usuários domésticos voltado a Segurança da Informação.Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux. Adicionaremos critérios rigorosos para fins de proteção do sistema operacional dos clientes.
+A SolOpenSec é um projeto com base proposta para suporte remoto de empresas e usuários domésticos voltado a Segurança da Informação.Também é proposto que a empresa preste suporte e configuração de Sistemas Operacionais Windows e Linux. Adicionaremos critérios rigorosos para fins de proteção do sistema operacional dos clientes.
 
 Version 0.2 - 01/03 ( ) - Beta 1 Brainstorm Beta 1 
 
@@ -72,7 +72,7 @@ Codinome:  Richard Matthew Stallman (✓)
   
   #######################################2019/2020############################################
 
-Version 0.2.0.2.0 - 03/01 - Beta 8 
+Version 0.2.0.2.0 - 03/01/2021 - Beta 8 
 
 Codinome: Kris Hagerman (✓) 
 
@@ -84,4 +84,15 @@ Codinome: Kris Hagerman (✓)
 - Channel in Telegram of Yuri Gagarin shared in server instancy federed 
 <code>updated</code>
 
+
+Version 1.2.1  
+Codinome: Ian Ashley Murdock
+
+ Empresas só terão "poderes de super vaca" (huehuehue)  se aderirem ao plano Business OpenSec, ou seja, terão que pagar uma taxa para todos os gastos que os realizadores de serviços farão. (Que será definido entre os líderes do projeto). 
+
+- Plano FidelidadeOpenSol: Consiste em garantir que usuários domésticos tenham suporte 24hrs por um preço acessível a ser debatido pela liderança. 
+
+- Empresas como Hospitais poderão ter um desconto na taxa, enquanto a situação do Coronavírus não for neutralizada por completo. 
+
+- ONGs entram no plano de fidelidade de usuários domésticos, desde que comprovam ações beneficientes (Ecológicas e em pró de softwares Livres)
 
