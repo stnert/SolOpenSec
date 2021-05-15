@@ -87,8 +87,9 @@ Codinome: Kris Hagerman (✓)
 <code>updated</code>
 
 
-Version 1.2.1  
-Codinome: Ian Ashley Murdock
+Version 1.2.1  - 15/03/2021 
+Codinome: Ian Ashley Murdock (✓) 
+
 
  Empresas só terão "poderes de super vaca" (huehuehue)  se aderirem ao plano Business OpenSec, ou seja, terão que pagar uma taxa para todos os gastos que os realizadores de serviços farão. (Que será definido entre os líderes do projeto). 
 
