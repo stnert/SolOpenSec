@@ -97,5 +97,5 @@ Codinome: Ian Ashley Murdock (✓)
 
 - Empresas como Hospitais poderão ter um desconto na taxa, enquanto a situação do Coronavírus não for neutralizada por completo. 
 
-- ONGs entram no plano de fidelidade de usuários domésticos, desde que comprovam ações beneficientes (Ecológicas,Softwares Livres e demais causas (favor comunicar a lidença sobre o que se trata)
+- ONGs entram no plano de fidelidade de usuários domésticos, desde que comprovam ações beneficientes (Ecológicas,Softwares Livres e demais causas (favor comunicar a liderança do projeto sobre o que se trata)
 
